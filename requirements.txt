@@ -38,7 +38,7 @@ pygame==1.9.3
 Pygments==2.2.0
 pyjokes==0.5.0
 pylama==7.4.3
-pylint==1.9.2
+pylint==2.5.0
 PyMouse==1.0
 PyNaCl==1.2.1
 pyparsing==2.2.0
